@@ -228,5 +228,5 @@ executable. → **[Explore SkillDeck](https://github.com/kunalsuri/SkillDeck)**
 
 ## 📄 License
 
-[Apache License 2.0](./LICENSE) — Copyright © 2026 Kunal Suri. Covers the skill
+[Apache License 2.0](./LICENSE) — Copyright © 2026 Kunal Suri (CEA LIST) . Covers the skill
 content in this repo, not any upstream tooling.
