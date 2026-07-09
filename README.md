@@ -19,6 +19,8 @@ Antigravity. No per-tool forks. Write once, run in every agent.
 > exact same file — because Agent Skills is now an [open standard](https://agentskills.io/specification),
 > not a vendor feature.
 
+<br>
+
 ---
 
 ## 📐 More Info: Agent Skill - Format & Specifications
@@ -226,7 +228,10 @@ executable. → **[Explore SkillDeck](https://github.com/kunalsuri/SkillDeck)**
 
 ---
 
-## 📄 License
+## 📄 Acknowledgments & License
 
-[Apache License 2.0](./LICENSE) — Copyright © 2026 Kunal Suri (CEA LIST) . Covers the skill
-content in this repo, not any upstream tooling.
+**Author**: Kunal Suri ([@kunalsuri](https://github.com/kunalsuri)) (CEA LIST)
+
+The **Agent-Skills** project is open source and licensed under the [Apache License 2.0](LICENSE) — Copyright © 2026 Kunal Suri (CEA LIST). See the LICENSE file for the full license text.
+
+**Warranty & Liability Notice**: This software is provided under the Apache License 2.0 on an "AS IS" basis, without warranties or conditions of any kind, either express or implied. To the extent permitted by the license and applicable law, the authors and contributors disclaim warranties and limit liability. Please refer to the LICENSE file for the complete terms, including Sections 7 (Disclaimer of Warranty) and 8 (Limitation of Liability).
